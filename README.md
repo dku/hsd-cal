@@ -10,7 +10,7 @@ Download from http://example.com/FIXME.
 
 FIXME: explanation
 
-    $ java -jar hsd-cal-0.1.0-standalone.jar [args]
+    $ java -jar hsd-cal-0.1.0-standalone.jar >neuberufenenprogramm.ics
 
 ## Options
 
